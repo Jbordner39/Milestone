@@ -1,5 +1,7 @@
 <?php
 
+include(‘header.php’);
+
 $link = mysqli_connect("localhost", "root", "root", "blog");
 
 // Check Connection
